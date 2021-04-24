@@ -36,9 +36,10 @@ img.logo {
     overflow: hidden;
 }
 
-div#main {
+div#title {
+    width: 100%;
     text-align: center;
-    padding-top: 20%;
+    padding-top: 30vh;
 }
 
 h1, h3{
